@@ -10,4 +10,5 @@ import { ParentComponentComponent } from './parent-component/parent-component.co
 })
 export class AppComponent {
   title = 'angular-14';
+  //https://angular.io/guide/standalone-components
 }
